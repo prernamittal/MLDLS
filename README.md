@@ -2,7 +2,7 @@
 <h1>The Machine Learning & Deep Learning Show</h1><br>
 <h3>Assignment 01:</h3><li><b>Problem 1:</b> Implement a Univariate Linear Regression after finding your own data  
 <li><b>Problem 2:</b> Implement a Multi-variate Linear Regression after finding your own data
-<h3>Assignment 02:</h3>
+<h3>Assignment 02 & 03:</h3>
 <li><b>Task 1:</b> Find data and implement classification algorithms 
 <li><b>Task 2:</b> Implement k-mean clustering algorithm
 <li><b>Task 3:</b> Explain the code for neural network 
